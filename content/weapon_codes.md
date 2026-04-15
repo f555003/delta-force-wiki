@@ -9,7 +9,7 @@
 - [AK-12](/AK-12.md)
 - [AUG](/AUG.md)
 - [M4A1](/M4A1.md)
-- [MK47](MK47.mk)
+- [MK47](/MK47.md)
 
 ### 🎯 射手步槍 (Marksman Rifles)
 - [[M110]]

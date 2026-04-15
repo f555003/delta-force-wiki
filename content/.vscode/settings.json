@@ -1,0 +1,20 @@
+{
+  "foam.edit.linkReferenceDefinitions": "none",
+  "foam.edit.linkFormat": "wikilink",
+  "md-notes.linkReferenceDefinitions": "none",
+  "editor.links": true,
+  "workbench.editor.enablePreview": true,
+  "markdown.extension.print.onManualSave": false,
+
+  /* --- 徹底禁止內建自動生成連結定義 --- */
+  "markdown.links.extractDefinitions": "never",
+  "markdown.updateLinksOnFileMove.enabled": "never",
+  "markdown.validate.fileLinks.enabled": "ignore",
+  "markdown.suggest.paths.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeLinks": "never"
+  },
+  
+  // 防止 VS Code 認為雙括號是無效語法而嘗試「修復」它
+  "markdown.validate.enabled": false
+}
