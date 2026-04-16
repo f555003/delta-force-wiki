@@ -1,8 +1,14 @@
-# knowledge-base
+# 🗃️ Knowledge Base (Private)
 
-# installed
-    # Foam (主要控制台，它的功能是提供雙向連結 (Backlinks) 與知識網路圖譜 (Graph View)。)
-    # Markdown Notes (負責雙向連結與跳轉)
-    # Markmap: 它的功能是將 Markdown 的「標題層級」轉化為心智圖 (Mind Map)。
-    # Paste Image (身為工程師，這對你很重要！可以直接 Ctrl + Alt + V 把剪貼簿的截圖存進筆記資料夾)
-    
+這是個人的知識庫原始碼，主要透過 VS Code 進行管理。
+
+### 🛠️ VS Code 推薦插件
+* **Foam**: 雙向連結與知識網絡圖譜。
+* **Markdown Notes**: 跳轉與連結優化。
+* **Markmap**: Markdown 標題轉心智圖。
+* **Paste Image**: 快速貼上截圖至資料夾。
+* **Edit csv**: 編輯武器數據表。
+
+### 📊 數據規範
+* 槍械數據儲存在 `weapon_data.csv`。
+* 執行隔壁 Wiki Repo 中的 `sync.sh` 即可完成數據連結與同步。

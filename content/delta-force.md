@@ -1,6 +1,9 @@
 # delta-force
 
 ---
+## 更新資訊
+- [更新內容](./release-notes.md)
+
 ## 遊戲設定
 ### 1. 鍵/鼠操作優化
 - **鍵位設定**: 
@@ -103,5 +106,6 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
     - 投擲位: 紅狼/牧羊人/烏魯魯/露娜
 
 ---
-## 武器
-- [weapon_codes](./weapon_codes.md)
+## 槍械資訊
+- [改槍碼庫](./weapon_codes.md)
+- [槍械賽季排行](./weapon-stats)
