@@ -1,6 +1,7 @@
 # delta-force
+- Delta Force 個人學習筆記
 
----
+
 ## 更新資訊
 - [更新內容](./release-notes.md)
 
@@ -37,7 +38,7 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 - [三角洲控枪神术细节之无后座](https://www.bilibili.com/video/BV1S6wXzXEKz/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `sy想睡觉了`
 ---
 ### 3. 特殊流派設定
-- **光速開鏡流**: S8賽季因為實施了`開精開火`同鍵位，`操控拉到160ms`導致開火會快速拉槍，近乎於腰射
+- **光速開鏡流**: S8賽季因為可實施`開鏡 & 開火`同鍵位，當`操控拉到160ms`導致開火會快速拉槍，近乎於腰射，此又稱 `光速開鏡流`
 
 #### 🔗 參考來源
 - [11万光速流勇士 鼠鼠必学的粑粑神枪 得吃400万！【三角洲行动】](https://www.bilibili.com/video/BV1LDQcBfEXM/?vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `库特菌`
@@ -91,6 +92,14 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
                 - **時間戳記**：01:01 31切槍。
                 - **細節說明**: 預設切換到1號武器:1,切換到2號武器:2；把設定都改到 1，就可以實施31切槍，需求是`兩把武器` & `主武器要放在2號武器欄位`
                 - **時間戳記**：03:09 一鍵扇貝盾。
+            </details>
+
+            <details>
+            <summary>空白永不败北or</summary>
+
+            - [深蓝嘲讽流切枪](https://www.bilibili.com/video/BV17oXRB7EPW/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
+                - **時間戳記**：00:30 檢視武器 & 1號武器一同綁定設置。
+                - **細節說明**: 將檢視武器 & 1號武器一同綁定設置以達成快速切槍的設定
             </details>
         
 
