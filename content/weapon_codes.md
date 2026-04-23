@@ -1,26 +1,25 @@
 # 武器改槍碼庫 (Weapon Codes)
 > 💡 **操作提示**：按住 `Ctrl` 並點擊下方槍名連結，即可快速跳轉至該槍械的詳細方案。
 
-## 1. 步槍 (Rifles)
+## 1. 步槍
 
-### 🔫 突擊步槍 (Assault Rifles)
-- [AK-12](/AK-12.md)
-- [AUG](/AUG.md)
-- [M4A1](/M4A1.md)
-- [MK47](/MK47.md)
-- [KC17](KC17)
+### 🔫 突擊步槍
+- [AK-12](weapons/AK-12.md)
+- [AUG](weapons/AUG.md)
+- [M4A1](weapons/M4A1)
+- [MK47](weapons/MK47.md)
+- [KC17](weapons/KC17.md)
 
-### 🎯 射手步槍 (Marksman Rifles)
-- [[M110]]
-- [[SV-98]]
-- [[SVD]]
+### 🎯 射手步槍
+- [SV-98](weapons/SV-98.md)
+- [SVD](weapons/SVD.md)
 
 ---
 
-## 2. 衝鋒槍 (SMGs)
-- [[Vector]]
-- [[P90]]
-- [[MP5]]
+## 2. 衝鋒槍
+- [Vector](weapons/Vector.md)
+- [P90](weapons/P90.md)
+- [MP5](weapons/MP5.md)
 
 ---
 ## 🔍 快速查找標籤 (YAML Tags 索引)
