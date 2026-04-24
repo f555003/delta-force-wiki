@@ -6,11 +6,14 @@
 ## 1. 步槍
 
 ### 🔫 突擊步槍
+- [AR57](weapons/AR57.md)
 - [AK-12](weapons/AK-12.md)
 - [AUG](weapons/AUG.md)
 - [M4A1](weapons/M4A1)
 - [MK47](weapons/MK47.md)
 - [KC17](weapons/KC17.md)
+- [K416](weapons/K416.md)
+
 
 ### 🎯 射手步槍
 - [SV-98](weapons/SV-98.md)
@@ -22,6 +25,7 @@
 - [Vector](weapons/Vector.md)
 - [P90](weapons/P90.md)
 - [MP5](weapons/MP5.md)
+- [QCQ171](weapons/QCQ171.md)
 
 ---
 ## 🔍 快速查找標籤 (YAML Tags 索引)
