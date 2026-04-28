@@ -44,6 +44,11 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 #### 🔗 參考來源
 - [11万光速流勇士 鼠鼠必学的粑粑神枪 得吃400万！【三角洲行动】](https://www.bilibili.com/video/BV1LDQcBfEXM/?vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `库特菌`
 
+### 4. 聲音設定
+- ** S9最新聲音設定: [三角洲S9最新声音设置，小白跟着调也能学会听声辩位 - By 小全三角洲行动](https://www.bilibili.com/video/BV14KokBBEDz/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
+    ![三角洲S9最新声音设置](./assets/三角洲S9最新声音设置_小白跟着调也能学会听声辩位.png)
+
+
 ## 💡 角色人物
 ### 🔗 角色操作與細節 (影片連結)
 
@@ -119,6 +124,15 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 ---
 
 ## 點位教學
+- **地圖進攻思路:**
+    * **航天基地**
+        * `西大 VS 宿舍`: 誰先搶到二樓木板位置就是優勢
+        * [西大闪击宿舍焚决小学习第一期-by 诗歌柠檬茶](https://www.bilibili.com/video/BV1GavfBuEwd?vd_source=3e6241ea6065bcf4f9a52bba4006255b&spm_id_from=333.788.player.player_end_recommend&trackid=web_related_0.router-related-2479604-5tzfh.1777340583319.792)
+            ![西大打宿舍](./assets/西大宿舍小焚决大学习第二期_西大打宿舍.png)
+        * [西大宿舍小焚决大学习第二期-by 诗歌柠檬茶](https://www.bilibili.com/video/BV11WrkBwERH/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
+            ![宿舍打西大](./assets/西大宿舍小焚决大学习第二期_宿舍打西大.png)
+            
+            
 - **推薦主播:**
     [勤捞小蜜蜂](https://space.bilibili.com/3494372861545409?spm_id_from=333.788.upinfo.detail.click)
 
