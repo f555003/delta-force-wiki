@@ -7,7 +7,7 @@
 
 ### 🔫 突擊步槍
 - [AR57](weapons/AR57.md)
-- [AK-12](weapons/AK-12.md)
+<!-- - [AK-12](weapons/AK-12.md) -->
 - [AUG](weapons/AUG.md)
 - [M4A1](weapons/M4A1)
 - [MK47](weapons/MK47.md)
@@ -16,15 +16,15 @@
 
 
 ### 🎯 射手步槍
-- [SV-98](weapons/SV-98.md)
-- [SVD](weapons/SVD.md)
+<!-- - [SV-98](weapons/SV-98.md)
+- [SVD](weapons/SVD.md) -->
 
 ---
 
 ## 2. 衝鋒槍
-- [Vector](weapons/Vector.md)
+<!-- - [Vector](weapons/Vector.md)
 - [P90](weapons/P90.md)
-- [MP5](weapons/MP5.md)
+- [MP5](weapons/MP5.md) -->
 - [QCQ171](weapons/QCQ171.md)
 
 ---
