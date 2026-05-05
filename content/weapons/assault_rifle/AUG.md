@@ -14,7 +14,8 @@ tags:
 | S9 | 尖兵强化版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JR1Q5O057O72FHH08LMM` | 30 |2026/04/15 30 |
 | S9 | 集成3倍性价比版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JR1R1G057O72FHH08LMM` | 25 |2026/04/15 30 |
 | S9 | 集成3倍顶配暗杀版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JR1RFC057O72FHH08LMM` | 35 |2026/04/15 33 |
-| S8 | 精英枪管顶配版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JR1S3G057O72FHH08LMM` | 45 |2026/04/15 44 |
+| S9 | 精英枪管顶配版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JR1S3G057O72FHH08LMM` | 45 |2026/04/15 44 |
+| S9 | 精英枪管顶配版 | always聰聰 | `AUG突擊步槍-烽火地帶-6JSOJ3G04Q5HR1E25MVF2` | N/A |2026/05/04 26 |
 
 ### 參考連結
 - [三角洲行动 只要23万！4弹局持平蓝管M7！新版本大口径AUG优缺点解析与改装教学！【A+】](https://www.youtube.com/watch?v=b7WC0fTudAg)
