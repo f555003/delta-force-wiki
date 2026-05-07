@@ -1,5 +1,5 @@
 # delta-force
-- Delta Force 個人學習筆記
+- Delta Force 參考網路資訊+個人學習筆記
 
 
 ## 更新資訊
@@ -45,7 +45,8 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 - [11万光速流勇士 鼠鼠必学的粑粑神枪 得吃400万！【三角洲行动】](https://www.bilibili.com/video/BV1LDQcBfEXM/?vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `库特菌`
 
 ### 4. 聲音設定
-- ** S9最新聲音設定: [三角洲S9最新声音设置，小白跟着调也能学会听声辩位 - By 小全三角洲行动](https://www.bilibili.com/video/BV14KokBBEDz/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
+- **S9最新聲音設定**: [三角洲S9最新声音设置，小白跟着调也能学会听声辩位 - By 小全三角洲行动](https://www.bilibili.com/video/BV14KokBBEDz/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
+    
     ![三角洲S9最新声音设置](./assets/三角洲S9最新声音设置_小白跟着调也能学会听声辩位.png)
 
 
