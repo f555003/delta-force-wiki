@@ -22,7 +22,7 @@ title: 全武器性能配件排名總表
 | M250                                       | nan       | S      | 中      |   95 | nan                         |
 | SR3M                                       | nan       | S      | 中      |   95 | nan                         |
 | [K416](weapons/assault_rifle/K416)         | nan       | S      | 中      |   95 | nan                         |
-| 騰龍                                         | 高速導器      | S      | 中      |   95 | nan                         |
+| [騰龍](weapons/assault_rifle/騰龍)             | 高速導器      | S      | 中      |   95 | nan                         |
 | [AR57](weapons/assault_rifle/AR57)         | nan       | S      | 中      |   95 | 射速高，單發傷害&爆發低，腰射易打到四肢，導致體感刮痧 |
 | [MCX](weapons/assault_rifle/MCX)           | 焰魂槍管      | S      | 下      |   93 | nan                         |
 | [M249](weapons/light_machine_gun/M249)     | 鏈鋸套件      | S      | 下      |   93 | 近距離S+常駐A+                   |
@@ -42,7 +42,7 @@ title: 全武器性能配件排名總表
 | AKM                                        | 急停        | A+     | 無      |   80 | nan                         |
 | [AUG](weapons/assault_rifle/AUG)           | nan       | A+     | 無      |   80 | nan                         |
 | AKM                                        | nan       | A+     | 無      |   80 | nan                         |
-| 騰龍                                         | nan       | A+     | 無      |   80 | nan                         |
+| [騰龍](weapons/assault_rifle/騰龍)             | nan       | A+     | 無      |   80 | nan                         |
 | [MCX](weapons/assault_rifle/MCX)           | nan       | A+     | 無      |   80 | nan                         |
 | SCAR-H                                     | nan       | A+     | 無      |   80 | nan                         |
 | [M4A1](weapons/assault_rifle/M4A1)         | nan       | A+     | 無      |   80 | nan                         |
@@ -60,7 +60,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                    | nan       | C      | 無      |   50 | nan                         |
 
 ---
-> 🕒 最後自動更新時間：2026-05-14 11:44:14
+> 🕒 最後自動更新時間：2026-05-18 14:08:35
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
