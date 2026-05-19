@@ -20,7 +20,7 @@ title: 全武器性能配件排名總表
 | [KC17](weapons/assault_rifle/KC17)         | 新子彈       | S      | 上      |   97 | 賽季子彈很貴                      |
 | [MP7](weapons/submachine_gun/MP7)          | 月影槍管      | S      | 上      |   97 | nan                         |
 | M250                                       | nan       | S      | 中      |   95 | nan                         |
-| SR3M                                       | nan       | S      | 中      |   95 | nan                         |
+| [SR3M](weapons/submachine_gun/SR3M)        | nan       | S      | 中      |   95 | nan                         |
 | [K416](weapons/assault_rifle/K416)         | nan       | S      | 中      |   95 | nan                         |
 | [騰龍](weapons/assault_rifle/騰龍)             | 高速導器      | S      | 中      |   95 | nan                         |
 | [AR57](weapons/assault_rifle/AR57)         | nan       | S      | 中      |   95 | 射速高，單發傷害&爆發低，腰射易打到四肢，導致體感刮痧 |
@@ -60,7 +60,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                    | nan       | C      | 無      |   50 | nan                         |
 
 ---
-> 🕒 最後自動更新時間：2026-05-18 14:08:35
+> 🕒 最後自動更新時間：2026-05-19 10:22:34
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
