@@ -26,17 +26,17 @@ title: 全武器性能配件排名總表
 | [AR57](weapons/assault_rifle/AR57)         | nan       | S      | 中      |   95 | 射速高，單發傷害&爆發低，腰射易打到四肢，導致體感刮痧 |
 | [MCX](weapons/assault_rifle/MCX)           | 焰魂槍管      | S      | 下      |   93 | nan                         |
 | [M249](weapons/light_machine_gun/M249)     | 鏈鋸套件      | S      | 下      |   93 | 近距離S+常駐A+                   |
-| MK4                                        | nan       | S      | 下      |   93 | nan                         |
+| [MK4](weapons/submachine_gun/MK4)          | nan       | S      | 下      |   93 | nan                         |
 | [QJB201](weapons/light_machine_gun/QJB201) | nan       | S      | 下      |   93 | nan                         |
-| K437                                       | nan       | S      | 下      |   93 | nan                         |
-| ASH12                                      | nan       | S      | 下      |   93 | nan                         |
+| [K437](weapons/assault_rifle/K437)         | nan       | S      | 下      |   93 | nan                         |
+| [ASH12](weapons/battle_rifle/ASH12)        | nan       | S      | 下      |   93 | nan                         |
 | [M7](weapons/battle_rifle/M7)              | nan       | S      | 下      |   93 | nan                         |
 | [KC17](weapons/assault_rifle/KC17)         | nan       | S      | 下      |   93 | nan                         |
 | P90                                        | nan       | S      | 下      |   93 | nan                         |
 | [QCQ171](weapons/submachine_gun/QCQ171)    | nan       | A+     | 上      |   87 | nan                         |
 | [MK47](weapons/assault_rifle/MK47)         | nan       | A+     | 上      |   87 | nan                         |
 | [M249](weapons/light_machine_gun/M249)     | nan       | A+     | 上      |   87 | nan                         |
-| MK4                                        | 全自動       | A+     | 上      |   87 | nan                         |
+| [MK4](weapons/submachine_gun/MK4)          | 全自動       | A+     | 上      |   87 | nan                         |
 | AK12                                       | nan       | A+     | 無      |   80 | nan                         |
 | [M4A1](weapons/assault_rifle/M4A1)         | 急停        | A+     | 無      |   80 | nan                         |
 | AKM                                        | 急停        | A+     | 無      |   80 | nan                         |
@@ -60,7 +60,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                    | nan       | C      | 無      |   50 | nan                         |
 
 ---
-> 🕒 最後自動更新時間：2026-05-25 13:44:23
+> 🕒 最後自動更新時間：2026-06-02 15:40:53
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
