@@ -13,7 +13,17 @@ tags:
 | S9-竞技场 | 炎魂中配45发 | always聰聰 | `MCX LT突擊步槍-烽火地帶-6JTCK1K057O72FHH08LMM` | 34 |2026/05/02 29 |
 | S9-竞技场 | 炎魂顶配A | always聰聰 | `MCX LT突擊步槍-烽火地帶-6JTCKF8057O72FHH08LMM` | 45 |2026/05/02 48 |
 | S9-竞技场 | 炎魂顶配B | always聰聰 | `MCX LT突擊步槍-烽火地帶-6JTCKQ8057O72FHH08LMM` | 45 |2026/05/02 51 |
+|   |                     |            | ``                                         |  |              |
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+</details>
+
+---
 
 ### 參考連結
 - [三角洲行动 S+级收割能力，赛事机制下的隐藏神器！炎魂MCX全面解析与改法教学！](https://www.youtube.com/watch?v=DMURzPKRZtw)

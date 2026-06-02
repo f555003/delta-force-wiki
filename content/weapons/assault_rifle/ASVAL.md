@@ -12,6 +12,17 @@ tags:
 | S9 | 斜握CT高操控版 | always聰聰 | `AS Val突擊步槍-烽火地帶-6JSRJ0G057O72FHH08LMM` | N/A |2026/04/30 80 |
 | S9 | 斜握CT稳定版 | always聰聰 | `AS Val突擊步槍-烽火地帶-6JSRJAC057O72FHH08LMM ` | N/A |2026/04/30 81 |
 | S9 | 情久MO自用改法 | always聰聰 | `AS Val突擊步槍-烽火地帶-6JSRJKK057O72FHH08LMM` | N/A |2026/04/30 87 |
+|   |                     |            | ``                                         |  |              |
+
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+</details>
+
+---
 
 ### 參考連結
 - [三角洲行动 职业赛冠军自用改枪码+比赛模式5大天王介绍！助你轻松取得限定奖励！](https://www.youtube.com/watch?v=LkD-bvF_aTs)
