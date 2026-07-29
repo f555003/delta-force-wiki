@@ -41,8 +41,11 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 - **光速開鏡流**: S8賽季因為可實施`開鏡 & 開火`同鍵位，當`操控拉到160ms`導致開火會快速拉槍，近乎於腰射，此又稱 `光速開鏡流`
     ![11萬光速流粑粑槍](./assets/11萬光速流粑粑槍.png)
 
+- **光速開鏡移速流**: 以`開鏡移速`為主軸的光速流，思路為開鏡移速拉滿，後改舉搶穩定性(+8點，效益最高)，剩下補後座力控制，適合 `後座力較低`的武器，護甲建議選配`精英防彈背心`。
+
 #### 🔗 參考來源
 - [11万光速流勇士 鼠鼠必学的粑粑神枪 得吃400万！【三角洲行动】](https://www.bilibili.com/video/BV1LDQcBfEXM/?vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `库特菌`
+- [库特菌公开「开镜移速流改枪」的核心思路，及其头甲推荐](https://www.bilibili.com/video/BV1My5Q6NE2z/?vd_source=3e6241ea6065bcf4f9a52bba4006255b) — `库特菌`
 
 ### 4. 聲音設定
 - **S9最新聲音設定**: [三角洲S9最新声音设置，小白跟着调也能学会听声辩位 - By 小全三角洲行动](https://www.bilibili.com/video/BV14KokBBEDz/?vd_source=3e6241ea6065bcf4f9a52bba4006255b)
@@ -150,6 +153,8 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 ## 點位教學
 - **地圖進攻思路:**
     * [航天基地](maps/航天基地.md)
+    * [巴克什](maps/巴克什.md)
+    * [AZ3核電站](maps/AZ3核電站.md)
     * [觀念分析](tactics/觀念分析.md)
             
 - **地圖攀爬點位教學:**
@@ -159,4 +164,21 @@ $$\text{垂直係數} \le \text{水平係數} \times 1.4$$
 ---
 ## 槍械資訊
 - [改槍碼庫](./weapon_codes.md)
+
+    <details>
+    <summary>📦 點擊展開/折疊 參考主播改槍碼資訊來源</summary>
+
+    * Always聪聪
+        * [B站](https://space.bilibili.com/52717408/dynamic?spm_id_from=333.1007.0.0)
+        * [YT](https://www.youtube.com/@AlwaysCongCong)
+
+    * 库特菌
+        * [B站](https://space.bilibili.com/69307?spm_id_from=333.337.0.0)
+        * [YT](https://www.youtube.com/@%E5%BA%93%E7%89%B9%E8%8F%8C%C2%B7%E4%B8%89%E8%A7%92%E6%B4%B2)
+
+    * 睡大 Still_Sleepy
+        * [YT](https://www.youtube.com/@TWStillSleepy)
+
+    </details>
+
 - [槍械賽季排行](./weapon-stats.md)
