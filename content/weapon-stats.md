@@ -16,16 +16,16 @@ title: 全武器性能配件排名總表
 | [M7](weapons/battle_rifle/M7)                  | 堤風槍管      | S+     | 無      |  100 | nan       |
 | M14                                            | nan       | S+     | 無      |  100 | nan       |
 | [MK47](weapons/assault_rifle/MK47)             | 鏖戰槍管      | S+     | 無      |  100 | nan       |
-| [ASVAL](weapons/assault_rifle/ASVAL)           | nan       | S+     | 無      |  100 | nan       |
 | [騰龍](weapons/assault_rifle/騰龍)                 | 高速導器      | S+     | 無      |  100 | S10賽季子彈   |
+| [ASVAL](weapons/assault_rifle/ASVAL)           | nan       | S+     | 無      |  100 | nan       |
 | [SVCH](weapons/designated_marksman_rifle/SVCH) | nan       | S      | 上      |   97 | nan       |
 | [QCQ171](weapons/submachine_gun/QCQ171)        | nan       | S      | 上      |   97 | S10賽季修腳子彈 |
 | [MP7](weapons/submachine_gun/MP7)              | nan       | S      | 上      |   97 | nan       |
 | PKM                                            | nan       | S      | 上      |   97 | nan       |
 | [Vector](weapons/submachine_gun/Vector)        | nan       | S      | 中      |   95 | S10賽季修腳子彈 |
-| [K416](weapons/assault_rifle/K416)             | nan       | S      | 中      |   95 | nan       |
-| [KC17](weapons/assault_rifle/KC17)             | nan       | S      | 中      |   95 | nan       |
 | [SR3M](weapons/submachine_gun/SR3M)            | nan       | S      | 中      |   95 | nan       |
+| [KC17](weapons/assault_rifle/KC17)             | nan       | S      | 中      |   95 | nan       |
+| [K416](weapons/assault_rifle/K416)             | nan       | S      | 中      |   95 | nan       |
 | [ASH12](weapons/battle_rifle/ASH12)            | nan       | S      | 中      |   95 | nan       |
 | [K437](weapons/assault_rifle/K437)             | nan       | S      | 中      |   95 | nan       |
 | [ASH12](weapons/battle_rifle/ASH12)            | 雙發套件      | S      | 中      |   95 | nan       |
@@ -42,23 +42,23 @@ title: 全武器性能配件排名總表
 | [MK4](weapons/submachine_gun/MK4)              | 全自動       | A+     | 上      |   87 | nan       |
 | [M249](weapons/light_machine_gun/M249)         | 鏈鋸套件      | A+     | 上      |   87 | 近距離S+常駐A+ |
 | [QJB201](weapons/light_machine_gun/QJB201)     | 高速導器      | A+     | 上      |   87 | nan       |
-| SCAR-H                                         | nan       | A+     | 無      |   80 | nan       |
+| [SCAR-H](weapons/battle_rifle/SCAR-H)          | nan       | A+     | 無      |   80 | nan       |
 | [AUG](weapons/assault_rifle/AUG)               | nan       | A+     | 無      |   80 | nan       |
 | [M4A1](weapons/assault_rifle/M4A1)             | 急停        | A+     | 無      |   80 | nan       |
 | [M4A1](weapons/assault_rifle/M4A1)             | nan       | A+     | 無      |   80 | nan       |
 | [AK-12](weapons/assault_rifle/AK-12)           | nan       | A+     | 無      |   80 | nan       |
+| [SMG-45](weapons/submachine_gun/SMG-45)        | nan       | A+     | 無      |   80 | S10賽季修腳子彈 |
 | [M7](weapons/battle_rifle/M7)                  | nan       | A+     | 無      |   80 | nan       |
 | [AKM](weapons/assault_rifle/AKM)               | nan       | A+     | 無      |   80 | nan       |
 | [AKM](weapons/assault_rifle/AKM)               | 急停        | A+     | 無      |   80 | nan       |
-| SGM45                                          | nan       | A+     | 無      |   80 | S10賽季修腳子彈 |
-| MP5                                            | nan       | A+     | 無      |   80 | S10賽季修腳子彈 |
+| [MP5](weapons/submachine_gun/MP5)              | nan       | A+     | 無      |   80 | S10賽季修腳子彈 |
 | PTR32                                          | nan       | A      | 上      |   77 | nan       |
 | SG552                                          | nan       | A      | 上      |   77 | nan       |
-| MP5                                            | nan       | B      | 無      |   60 | nan       |
+| [MP5](weapons/submachine_gun/MP5)              | nan       | B      | 無      |   60 | nan       |
 | G3                                             | nan       | B      | 無      |   60 | nan       |
 | [勇士](weapons/submachine_gun/勇士)                | nan       | B      | 無      |   60 | nan       |
 | QBZ95                                          | nan       | B      | 無      |   60 | nan       |
-| SGM45                                          | nan       | B      | 無      |   60 | nan       |
+| [SMG-45](weapons/submachine_gun/SMG-45)        | nan       | B      | 無      |   60 | nan       |
 | CAR-15                                         | nan       | C      | 無      |   50 | nan       |
 | 野牛                                             | nan       | C      | 無      |   50 | nan       |
 | M16A4                                          | nan       | C      | 無      |   50 | nan       |
@@ -66,7 +66,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                        | nan       | C      | 無      |   50 | nan       |
 
 ---
-> 🕒 最後自動更新時間：2026-07-29 11:50:36
+> 🕒 最後自動更新時間：2026-08-03 11:10:16
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
