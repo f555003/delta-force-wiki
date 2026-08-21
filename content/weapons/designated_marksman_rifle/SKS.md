@@ -7,11 +7,22 @@ tags:
 
 # SKS
 ## 📊 歷代方案對比
+<details>
+<summary>📦 點擊展開/折疊 S9 歷史方案</summary>
+
 | 版本 | 武器備註 | 來源 | 國際服改槍碼 |陸服價格|其他備註|
 | :--- | :--- | :--- | :--- | :--- | :--- | 
 | S9 |  N/A | always聰聰 | `SKS射手步槍-烽火地帶-6JSRKEC057O72FHH08LMM` | N/A |2026/04/30 46 |
 | S9 |  标准满改 | always聰聰 | `SKS射手步槍-烽火地帶-6K8SAES057O72FHH08LMM` | 46 |2026/06/07  |
 | S9 |  新速射压制流 | always聰聰 | `SKS射手步槍-烽火地帶-6K8SB5K057O72FHH08LMM` | N/A |2026/06/07  |
+|   |                     |            |                                          |  |              |
+
+</details>
+
+| 版本 | 武器備註 | 來源 | 國際服改槍碼 |陸服價格|其他備註|
+| :--- | :--- | :--- | :--- | :--- | :--- | 
+| S10 |  顶配满改A         | always聰聰 | `SKS射手步槍-烽火地帶-6L1N1H0057O72FHH08LMM` | 49 W |2026/08/20 48 W |
+| S10 |  顶配满改 | always聰聰 | `SKS射手步槍-烽火地帶-6L1N1VK057O72FHH08LMM` | 46 W |2026/08/20 45 W  |
 |   |                     |            | ``                                         |  |              |
 
 ---
@@ -20,9 +31,20 @@ tags:
 <details>
 <summary>根據武器備註補充說明</summary>
 
+<details>
+<summary>📦 點擊展開/折疊 S9 歷史方案</summary>
+
 - SKS标准满改46万:瞄準鏡根據個人喜好選擇
 - SKS新速射压制流45万:
 	* 瞄準鏡: 1-5倍/3倍/2-4倍，預設1-5倍鏡
+
+</details>
+
+- 裝備壓制/性價比
+	* 槓桿、PSG、SVD、SKS
+- 對槍/架點優勢
+	* 中近距離
+		* SKS、SVD
 
 </details>
 
@@ -31,6 +53,7 @@ tags:
 ### 參考連結
 - [三角洲行动 职业赛冠军自用改枪码+比赛模式5大天王介绍！助你轻松取得限定奖励！](https://www.youtube.com/watch?v=LkD-bvF_aTs)
 - [三角洲行动 职业赛登场率最高连狙！SKS优缺点介绍与改法教学！](https://www.youtube.com/watch?v=Ji7LKNudQYo)
+- [三角洲行动 连狙到底怎么选？S10连狙强度排行！连狙全面解析与选择攻略！](https://www.youtube.com/watch?v=F-KWIcOQbaY)
 
 ---
 ## 💡 實戰心得
