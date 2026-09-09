@@ -16,7 +16,7 @@ title: 全武器性能配件排名總表
 | [ASVAL](weapons/assault_rifle/ASVAL)               | nan       | S+     | 無      |  100 | nan       |
 | [SR-25](weapons/designated_marksman_rifle/SR-25)   | nan       | S+     | 無      |  100 | nan       |
 | [MK47](weapons/assault_rifle/MK47)                 | 鏖戰槍管      | S+     | 無      |  100 | nan       |
-| M14                                                | nan       | S+     | 無      |  100 | nan       |
+| [M14](weapons/designated_marksman_rifle/M14)       | nan       | S+     | 無      |  100 | nan       |
 | [M7](weapons/battle_rifle/M7)                      | 堤風槍管      | S+     | 無      |  100 | nan       |
 | [騰龍](weapons/assault_rifle/騰龍)                     | 高速導器      | S+     | 無      |  100 | S10賽季子彈   |
 | [QCQ171](weapons/submachine_gun/QCQ171)            | nan       | S      | 上      |   97 | S10賽季修腳子彈 |
@@ -71,7 +71,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                            | nan       | C      | 無      |   50 | nan       |
 
 ---
-> 🕒 最後自動更新時間：2026-08-21 11:20:40
+> 🕒 最後自動更新時間：2026-09-09 11:08:29
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
