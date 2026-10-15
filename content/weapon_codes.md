@@ -154,6 +154,11 @@
     * 09x19mm
         - [93R](weapons/handgun/93R.md)
 
+    * 未標示口徑
+        - [G18](weapons/handgun/G18.md)
+        - [M1911](weapons/handgun/M1911.md)
+        - [沙漠之鷹](weapons/handgun/沙漠之鷹.md)
+
     * 箭矢
         - [復合弓](weapons/special_weapons/復合弓.md)
 
