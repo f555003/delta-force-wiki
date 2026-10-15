@@ -69,7 +69,10 @@ tags:
 ---
 
 ## 黑潮爆破方案
-- 待補充。
+| 方案 | 改槍碼 | 費用 | Garena-PC | 備註 |
+| :--- | :--- | ---: | ---: | :--- |
+| 三连发腰射版 | `MK4衝鋒槍-黑潮爆破-6LFTEV0057O72FHH08LMM` | 2600 | 2600 | - |
+| 全自动腰射版 | `MK4衝鋒槍-黑潮爆破-6LFTFH4057O72FHH08LMM` | 2600 | 2600 | - |
 
 ---
 
@@ -83,6 +86,7 @@ tags:
 ---
 
 ### 參考連結
+- [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
 - [三角洲行动 最准腰射之王！新版本全新近战神器！自动MK4的全面解析与改法教学！【A+】](https://www.youtube.com/watch?v=kiKuz_chwM8)
 - [三角洲行动 增伤BUG+新腰射机制！限时S+级武器！最强冲锋枪全自动MK4优缺点介绍与改法教学！【S】- always聰聰](https://www.youtube.com/watch?v=SG9BepH0yr0&t=1s)
 - [三角洲行动 强度超越巅峰！版本之子三连发MK4的优缺点介绍与最强改法合集！- always聰聰](https://www.youtube.com/watch?v=EvCD5Y1nZco)
