@@ -24,10 +24,24 @@ tags:
 ---
 
 ## 黑潮爆破方案
-- 待補充。
+| 方案 | 改槍碼 | 費用 | Garena-PC | 備註 |
+| :--- | :--- | ---: | ---: | :--- |
+| 双修版 | `SMG-45衝鋒槍-黑潮爆破-6LFIMJO057O72FHH08LMM` | 1480 | 1480 | - |
+
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
 
 ### 參考連結
 - [三角洲行动 20万S+级强度！0.25秒瞬杀一切！S10修脚鼠鼠三兄弟改法合集！【S】- always聰聰](https://www.youtube.com/watch?v=9uTel8Js3PU)
+- [三角洲行动 一半以上的枪都没用！黑潮爆破改枪教学第二期：标准级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=tBtqCywgVXw)
 
 ---
 
@@ -41,7 +55,6 @@ tags:
 ## 🔗 相關連結
 - [⬅️ 返回武器庫](../../weapon_codes.md)
 - [⬅️ 返回三角洲首頁](../../delta-force.md)
-
 
 
 

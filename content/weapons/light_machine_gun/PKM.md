@@ -28,6 +28,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 30万对标S+级！低价强度天花板！最新PKM全面分析与最强改法合集！【S】](https://www.youtube.com/watch?v=_TZOILiRoAQ)
 

@@ -30,6 +30,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 全游戏最高输出+4级枪最低登场率！维克托冲锋枪环境分析与改法教学！ by Always聰聰 2026/06/09](https://www.youtube.com/watch?v=-tOundjpjmE)
 

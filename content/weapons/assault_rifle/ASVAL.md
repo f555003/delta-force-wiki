@@ -35,6 +35,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 职业赛冠军自用改枪码+比赛模式5大天王介绍！助你轻松取得限定奖励！](https://www.youtube.com/watch?v=LkD-bvF_aTs)
 - [三角洲行动 共振是黑科技还是博眼球？数值对比告诉你新版本最强ASVAL改法合集！【S+天王】by Always聰聰 2026/06/09](https://www.youtube.com/watch?v=ZQVAUxR0fxM)

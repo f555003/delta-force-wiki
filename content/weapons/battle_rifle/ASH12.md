@@ -30,6 +30,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 操控快后坐稳！穿甲弹双头弹怎么选？新版本ASH12全面解析与改法教学！【S】](https://www.youtube.com/watch?v=Htugar5SoLA)
 - [三角洲行动 一枪超越AWM！武器策划抽象暴力之作！双发ASH12超详细解析与改法教学！【S】](https://www.youtube.com/watch?v=RP0RTFtJlBw)

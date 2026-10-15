@@ -55,6 +55,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 四肢增伤+4弹自由！性价比与强度的最新首选！新版本SCAR优缺点介绍与改法教学！ - always聰聰](https://www.youtube.com/watch?v=GJ9WXbyigkA&t=27s)
 - [三角洲行动 无后坐+超高性价比！别再尬黑火力之神了！SCAR优缺点介绍与改法教学！【S级下】](https://www.youtube.com/watch?v=x8KBBPZJPpQ)

@@ -40,6 +40,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 20万强化粑粑流不浪费任何属性！全网最细最全颗秒AKM改法与技巧教学！【A+】-2026/07/25](https://www.youtube.com/watch?v=kkeqXcbjJCw)
 

@@ -33,6 +33,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 最准腰射技巧+3种枪管改法！全网最细MP7解析与最强改法合集！【S】](https://www.youtube.com/watch?v=pYSS1JZWk3M)
 

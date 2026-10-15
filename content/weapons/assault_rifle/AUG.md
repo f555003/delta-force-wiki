@@ -32,6 +32,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 只要23万！4弹局持平蓝管M7！新版本大口径AUG优缺点解析与改装教学！【A+】](https://www.youtube.com/watch?v=b7WC0fTudAg)
 

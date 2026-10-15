@@ -52,12 +52,28 @@ tags:
 ---
 
 ## 黑潮爆破方案
-- 待補充。
+| 方案 | 改槍碼 | 費用 | Garena-PC | 備註 |
+| :--- | :--- | ---: | ---: | :--- |
+| 架枪改 A | `SKS射手步槍-黑潮爆破-6LFJ060057O72FHH08LMM` | 1600 | 1600 | - |
+| 架枪改 B | `SKS射手步槍-黑潮爆破-6LFIVB4057O72FHH08LMM` | 1600 | 1600 | 前握把差異，見細節說明。 |
+
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- SKS架枪改 B
+    - 前握把：RK0 精教只有一條；影片有兩條。登入陸服並匯入改槍碼時只有一條，應為影片誤植；陸服精教請使用預設值。
+</details>
+
+---
 
 ### 參考連結
 - [三角洲行动 职业赛冠军自用改枪码+比赛模式5大天王介绍！助你轻松取得限定奖励！](https://www.youtube.com/watch?v=LkD-bvF_aTs)
 - [三角洲行动 职业赛登场率最高连狙！SKS优缺点介绍与改法教学！](https://www.youtube.com/watch?v=Ji7LKNudQYo)
 - [三角洲行动 连狙到底怎么选？S10连狙强度排行！连狙全面解析与选择攻略！](https://www.youtube.com/watch?v=F-KWIcOQbaY)
+- [三角洲行动 一半以上的枪都没用！黑潮爆破改枪教学第二期：标准级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=tBtqCywgVXw)
 
 ---
 ## 💡 實戰心得

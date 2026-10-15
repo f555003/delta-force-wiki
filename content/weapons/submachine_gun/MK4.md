@@ -71,6 +71,17 @@ tags:
 ## 黑潮爆破方案
 - 待補充。
 
+---
+
+### 細節說明:
+<details>
+<summary>根據武器備註補充說明</summary>
+
+- N/A
+</details>
+
+---
+
 ### 參考連結
 - [三角洲行动 最准腰射之王！新版本全新近战神器！自动MK4的全面解析与改法教学！【A+】](https://www.youtube.com/watch?v=kiKuz_chwM8)
 - [三角洲行动 增伤BUG+新腰射机制！限时S+级武器！最强冲锋枪全自动MK4优缺点介绍与改法教学！【S】- always聰聰](https://www.youtube.com/watch?v=SG9BepH0yr0&t=1s)
