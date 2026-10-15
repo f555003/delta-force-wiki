@@ -6,7 +6,8 @@ tags:
 ---
 
 # MCX
-## 📊 歷代方案對比
+## 烽火地帶方案
+### 📊 歷代方案對比
 <details>
 <summary>📦 點擊展開/折疊 S9 歷史方案</summary>
 
@@ -49,9 +50,14 @@ tags:
 
 ---
 
+## 黑潮爆破方案
+- 待補充。
+
 ### 參考連結
 - [三角洲行动 S+级收割能力，赛事机制下的隐藏神器！炎魂MCX全面解析与改法教学！](https://www.youtube.com/watch?v=DMURzPKRZtw)
 - [三角洲行动 版本唯一20万有强度手感好的枪！猎手MCX全面解析与改法教学！【A+】](https://www.youtube.com/watch?v=EkpER6kAlT4&t=4s)
+
+---
 
 ---
 ## 💡 實戰心得

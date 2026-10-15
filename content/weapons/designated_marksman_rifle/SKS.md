@@ -6,7 +6,8 @@ tags:
 ---
 
 # SKS
-## 📊 歷代方案對比
+## 烽火地帶方案
+### 📊 歷代方案對比
 <details>
 <summary>📦 點擊展開/折疊 S9 歷史方案</summary>
 
@@ -49,6 +50,9 @@ tags:
 </details>
 
 ---
+
+## 黑潮爆破方案
+- 待補充。
 
 ### 參考連結
 - [三角洲行动 职业赛冠军自用改枪码+比赛模式5大天王介绍！助你轻松取得限定奖励！](https://www.youtube.com/watch?v=LkD-bvF_aTs)

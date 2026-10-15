@@ -6,7 +6,8 @@ tags:
 ---
 
 # SCAR-H
-## 📊 歷代方案對比
+## 烽火地帶方案
+### 📊 歷代方案對比
 <details>
 <summary>📦 點擊展開/折疊 S10 歷史方案</summary>
 
@@ -51,9 +52,14 @@ tags:
 
 ---
 
+## 黑潮爆破方案
+- 待補充。
+
 ### 參考連結
 - [三角洲行动 四肢增伤+4弹自由！性价比与强度的最新首选！新版本SCAR优缺点介绍与改法教学！ - always聰聰](https://www.youtube.com/watch?v=GJ9WXbyigkA&t=27s)
 - [三角洲行动 无后坐+超高性价比！别再尬黑火力之神了！SCAR优缺点介绍与改法教学！【S级下】](https://www.youtube.com/watch?v=x8KBBPZJPpQ)
+---
+
 ---
 ## 💡 實戰心得
 ### 實況主心得
