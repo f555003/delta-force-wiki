@@ -42,9 +42,8 @@ tags:
 ---
 
 ### 參考連結
-- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 - [三角洲行动 30万对标S+级！低价强度天花板！最新PKM全面分析与最强改法合集！【S】](https://www.youtube.com/watch?v=_TZOILiRoAQ)
-
+- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 
 ---
 

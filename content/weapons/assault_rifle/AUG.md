@@ -46,8 +46,9 @@ tags:
 ---
 
 ### 參考連結
+- [三角洲行动 只要23万！4弹局持平蓝管M7！新版本大
+口径AUG优缺点解析与改装教学！【A+】](https://www.youtube.com/watch?v=b7WC0fTudAg)
 - [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
-- [三角洲行动 只要23万！4弹局持平蓝管M7！新版本大口径AUG优缺点解析与改装教学！【A+】](https://www.youtube.com/watch?v=b7WC0fTudAg)
 
 ---
 

@@ -43,8 +43,8 @@ tags:
 ---
 
 ### 參考連結
-- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 - [三角洲行动 拳打MK47，脚踢M14！策划究极数值之作！SVCH的全面解析与最强改法教学！【S】](https://www.youtube.com/watch?v=45TqfKjucEs)
+- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 
 ---
 

@@ -70,9 +70,10 @@ tags:
 ---
 
 ### 參考連結
-- [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
 - [三角洲行动 四肢增伤+4弹自由！性价比与强度的最新首选！新版本SCAR优缺点介绍与改法教学！ - always聰聰](https://www.youtube.com/watch?v=GJ9WXbyigkA&t=27s)
 - [三角洲行动 无后坐+超高性价比！别再尬黑火力之神了！SCAR优缺点介绍与改法教学！【S级下】](https://www.youtube.com/watch?v=x8KBBPZJPpQ)
+- [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
+
 ---
 
 ---

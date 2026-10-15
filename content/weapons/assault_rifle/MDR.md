@@ -56,8 +56,8 @@ tags:
 ---
 
 ### 參考連結
-- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 - [三角洲行动 伪胸腹同伤，M7的最佳平替！独家新枪MDR黑科技改法教学与全面解析！【S】](https://www.youtube.com/watch?v=2dXRJg4qP5g)
+- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 
 ---
 

@@ -45,8 +45,8 @@ tags:
 ---
 
 ### 參考連結
-- [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
 - [三角洲行动 秒是真的秒，演是真的演！S9赛季SR3M优缺点介绍与最强改法合集！](https://www.youtube.com/watch?v=IFhmtgGFd0o)
+- [三角洲行动 无后坐焚决来袭！黑潮爆破改枪教学第三期：精锐级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=ZYIj1J06RQ0)
 
 ---
 
