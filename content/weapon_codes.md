@@ -104,6 +104,9 @@
     * 05.8x42mm
         - [QJB201](weapons/light_machine_gun/QJB201.md)
 
+    * 06.8x51mm
+        - [M250](weapons/light_machine_gun/M250.md)
+
     * 07.62x54mm
         - [PKM](weapons/light_machine_gun/PKM.md)
 
@@ -137,7 +140,10 @@
     * 00.50GMB
         - [巴雷特M82](weapons/sniper_rifle/M82.md)
 
-    * 未標示口徑
+    * .338
+        - [AWM](weapons/sniper_rifle/AWM.md)
+
+    * 07.62x51mm
         - [M700](weapons/sniper_rifle/M700.md)
 
 ## 手槍與特殊武器

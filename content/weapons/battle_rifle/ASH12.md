@@ -28,7 +28,9 @@ tags:
 ---
 
 ## 黑潮爆破方案
-- 待補充。
+| 方案 | 改槍碼 | 費用 | Garena-PC | 備註 |
+| :--- | :--- | ---: | ---: | :--- |
+| 双发枪管 | `ASh-12戰鬥步槍-黑潮爆破-6LG90U4057O72FHH08LMM` | 3060 | - | - |
 
 ---
 
@@ -42,6 +44,7 @@ tags:
 ---
 
 ### 參考連結
+- [三角洲行动 0.2秒瞬杀全甲，最强武器汤姆逊！黑潮爆破改枪教学第四期：特种级武器优缺点介绍与改法教学！](https://www.youtube.com/watch?v=evbf5T-oEs0)
 - [三角洲行动 操控快后坐稳！穿甲弹双头弹怎么选？新版本ASH12全面解析与改法教学！【S】](https://www.youtube.com/watch?v=Htugar5SoLA)
 - [三角洲行动 一枪超越AWM！武器策划抽象暴力之作！双发ASH12超详细解析与改法教学！【S】](https://www.youtube.com/watch?v=RP0RTFtJlBw)
 ---
