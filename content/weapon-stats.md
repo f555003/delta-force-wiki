@@ -12,7 +12,7 @@ title: 全武器性能配件排名總表
 | 武器名稱                                               | 特殊配件/模式   | 強度等級   | 評級區間   |   總分 | 交戰距離   | 備註        |
 |:---------------------------------------------------|:----------|:-------|:-------|-----:|:-------|:----------|
 | [MK47](weapons/assault_rifle/MK47)                 | 餘燼槍管      | S+     | 上      |  107 | 近      | -         |
-| M250                                               | -         | S+     | 上      |  107 | 近&全    | 手遊        |
+| [M250](weapons/light_machine_gun/M250)             | -         | S+     | 上      |  107 | 近&全    | 手遊        |
 | [M7](weapons/battle_rifle/M7)                      | 堤風槍管      | S+     | 無      |  100 | 遠&全    | -         |
 | [M14](weapons/designated_marksman_rifle/M14)       | -         | S+     | 無      |  100 | 近      | -         |
 | [ASVAL](weapons/assault_rifle/ASVAL)               | -         | S+     | 無      |  100 | 近      | -         |
@@ -58,12 +58,12 @@ title: 全武器性能配件排名總表
 | [MP5](weapons/submachine_gun/MP5)                  | -         | A+     | 無      |   80 | 無建議    | -         |
 | [PSG-1](weapons/designated_marksman_rifle/PSG-1)   | -         | A+     | 無      |   80 | 無建議    | -         |
 | [AK-12](weapons/assault_rifle/AK-12)               | -         | A+     | 無      |   80 | 遠&全    | -         |
-| PTR32                                              | -         | A      | 上      |   77 | 無建議    | -         |
-| SG552                                              | -         | A      | 上      |   77 | 全      | -         |
+| [PTR32](weapons/assault_rifle/PTR32)               | -         | A      | 上      |   77 | 無建議    | -         |
+| [SG552](weapons/assault_rifle/SG552)               | -         | A      | 上      |   77 | 全      | -         |
 | [MP5](weapons/submachine_gun/MP5)                  | -         | B      | 無      |   60 | 無建議    | -         |
-| G3                                                 | -         | B      | 無      |   60 | 無建議    | -         |
+| [G3](weapons/battle_rifle/G3)                      | -         | B      | 無      |   60 | 無建議    | -         |
 | [勇士](weapons/submachine_gun/勇士)                    | -         | B      | 無      |   60 | 無建議    | -         |
-| QBZ95                                              | -         | B      | 無      |   60 | 無建議    | -         |
+| [QBZ95](weapons/assault_rifle/QBZ95)               | -         | B      | 無      |   60 | 無建議    | -         |
 | [SMG-45](weapons/submachine_gun/SMG-45)            | -         | B      | 無      |   60 | 近      | -         |
 | CAR-15                                             | -         | C      | 無      |   50 | 無建議    | -         |
 | 野牛                                                 | -         | C      | 無      |   50 | 無建議    | -         |
@@ -72,7 +72,7 @@ title: 全武器性能配件排名總表
 | AKS-74U                                            | -         | C      | 無      |   50 | 無建議    | -         |
 
 ---
-> 🕒 最後自動更新時間：2026-09-21 14:55:38
+> 🕒 最後自動更新時間：2026-10-15 13:34:56
 
 ## 🔗 相關連結
 - [🏠 回到首頁](./delta-force.md)
