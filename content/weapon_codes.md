@@ -46,6 +46,9 @@
     * .300mm
         - [K437](weapons/assault_rifle/K437.md)
 
+    * 未標示口徑
+        - [AN94](weapons/assault_rifle/AN94.md)
+
 ### 戰鬥步槍
 * Battle Rifle, BR
 * 主要交戰距離: 中距離
